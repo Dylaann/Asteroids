@@ -1,0 +1,46 @@
+body {
+	background-color:white;
+}
+h1 {
+    font-size:24px;
+    font-weight:normal;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+}
+table {
+    border-collapse: collapse;
+}
+
+table {
+  margin-left:50px; text-align:center; border-collapse:collapse;
+  position: absolute;}
+td, th {padding:5px; }
+th {color:white; background-color:blue; font-family:'5px Adventure Regular';;}
+tr:nth-child(even) {background: #CCC}
+.tableheader{
+
+}
+.test{
+
+    margin: auto;
+    width: 100%;
+    height: 80%;
+    text-align: center;
+    font-size: 3vw;
+    z-index: 10;
+
+    position: absolute;
+    padding-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    display: none;
+    overflow-y:auto;
+    overflow-x:hidden;
+    font-family:'10px Adventure Regular', Adventure;
+
+
+}
